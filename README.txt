@@ -16,7 +16,7 @@ A handy Android application that takes users' inputs for the amount on their che
 
 Here's a walkthrough of the Tip Calculator App:
 
-<img src='/Assignment4/TipCalculatorWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/Assignment 4/TipCalculatorWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
