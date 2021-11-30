@@ -1,6 +1,8 @@
-# Tip Calculator App Manual
+# Tip Calculator App
 
 Submitted by **Lily Deng**
+
+**Time spent: 7 hours**
 
 A handy Android application that takes users' inputs for the amount on their check and the number of people splitting the check. The system then calculates how much the tip and total would be for each person, providing calculations for 15%, 20%, and 25% tips. The results will be rounded to the nearest integer to avoid any minor rounding conflicts.
 
